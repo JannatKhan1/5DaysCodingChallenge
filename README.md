@@ -4,3 +4,5 @@ Doing 100 days of coding challenge is daunting. Why not take small steps and app
 
 Set 1:
 Problem 1: Finding Duplicates in an Array
+Problem 2: Finding Missing Number in an Array
+
