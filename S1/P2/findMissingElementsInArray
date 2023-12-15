@@ -1,0 +1,10 @@
+Problem 1: Find Missing Elements In Array
+Given an array of size N-1 such that it only contains distinct integers in the range of 1 to N. Find the missing element.
+Solution:
+Logic :
+1. Store the expectedSum of array using the AP formula.
+2. Calculate the actualSum using for-each loop.
+3. Result is the difference of expectedSum and actualSum
+
+Lessons Learnt:
+1. Usage of for-each loop.
