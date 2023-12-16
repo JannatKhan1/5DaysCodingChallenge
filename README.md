@@ -9,3 +9,6 @@ Problem 1: Finding Duplicates in an Array
 <div>
 Problem 2: Finding Missing Number in an Array
 </div>
+<div>
+Problem 3: Finding Extra Element in an Array
+</div>
