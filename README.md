@@ -12,3 +12,6 @@ Problem 2: Finding Missing Number in an Array
 <div>
 Problem 3: Finding Extra Element in an Array
 </div>
+<div>
+Problem 4: Finding Transition Point in an Array
+</div>
