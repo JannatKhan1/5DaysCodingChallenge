@@ -1,8 +1,8 @@
 Problem 3: Find Transition Point In Array
 Given a sorted array containing only 0s and 1s, find the transition point, i.e., the first index where 1 was observed, and before that, only 0 was observed.
 Solution:
-<b>Logic/Idea :</b> Narrow down the search range by dividing the array into half. Use binary search instead of linear search.
-<b>Algorithm:</b>
+Logic/Idea : Narrow down the search range by dividing the array into half. Use binary search instead of linear search.
+Algorithm:
 1. Initialize the variables: low and high - starting and ending index of search range respectively.
 2. Binary search loop:
    (i) While low is less than high,loop continues.
@@ -13,7 +13,7 @@ Solution:
    (iii) if arr[mid] = 0, update low = mid + 1 and shift the search in right half.
 4. Return -1 if no transition point is found.
 
-<b>Lessons Learnt:</b>
+Lessons Learnt:
 1. T.C. of Binary search = O(log n)
    T.C. of Linear search = O(n)
 2. Binary search is effective for sorted arrays.
