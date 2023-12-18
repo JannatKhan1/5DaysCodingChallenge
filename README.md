@@ -15,3 +15,6 @@ Problem 3: Finding Extra Element in an Array
 <div>
 Problem 4: Finding Transition Point in an Array
 </div>
+<div>
+Problem 5: Finding Left Most and Right Most Index in an Array
+</div>
